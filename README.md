@@ -2,6 +2,8 @@
 
 > Translating natural language business questions into executable SQLite aggregations, interactive Plotly visualizations, and prescriptive business recommendations using Python, SQLite, and Google Gemini.
 
+🔗 **Live Demo:** [insight-genie.streamlit.app](https://seema-kri-insight-genie-app-6oqxee.streamlit.app/)
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -41,7 +43,7 @@
 
 1. **Clone the repository:**
 ```bash
-   git clone https://github.com/seema-krigive/insight-genie.git
+   git clone https://github.com/seema-kri/insight-genie.git
    cd insight-genie
 ```
 
@@ -77,5 +79,5 @@
 ## 👤 Author
 
 **Seema Kumari**
-* GitHub: [github.com/seema-krigive](https://github.com/seema-krigive)
+* GitHub: [github.com/seema-kri](https://github.com/seema-kri)
 * LinkedIn: [linkedin.com/in/seema-kumari-375763308](https://linkedin.com/in/seema-kumari-375763308)
